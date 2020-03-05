@@ -1,0 +1,12 @@
+label{
+	font-weight: 500;
+}
+
+
+
+form{
+	background-color: #ccc;
+	padding: 1.5rem 3rem;
+	border-radius: 10px;
+	margin-top: 1rem;
+}
